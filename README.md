@@ -42,8 +42,8 @@ Saya adalah mahasiswa informatika yang sedang belajar dan mengembangkan diri di 
 
 ## 📫 Connect With Me
 
-* 💼 GitHub: [https://github.com/USERNAME](https://github.com/USERNAME)
-* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+* 💼 GitHub: https://github.com/ededbisri
+* 📧 Email: 2500018045@webmail.uad.ac.id
 
 ---
 
